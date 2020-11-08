@@ -1,4 +1,4 @@
 bin/
-obj/
-Properties/
+obj/*
+Properties/*
 *.user
