@@ -1,6 +1,0 @@
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\bin\Debug\t.txt
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\bin\Debug\DCEnumNC.exe
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\bin\Debug\DCEnumNC.pdb
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.csproj.CoreCompileInputs.cache
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.exe
-C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.pdb
