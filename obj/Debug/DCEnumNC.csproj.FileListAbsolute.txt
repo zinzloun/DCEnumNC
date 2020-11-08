@@ -4,9 +4,3 @@ C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\bin\Debug\DCEnumNC.pdb
 C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.csproj.CoreCompileInputs.cache
 C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.exe
 C:\Users\filippo\source\repos\DCEnumFTPCli\DCEnumFTPCli\obj\Debug\DCEnumNC.pdb
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\bin\Debug\DCEnumNC.exe
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\bin\Debug\DCEnumNC.pdb
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\obj\Debug\DCEnumNC.csproj.CoreCompileInputs.cache
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\obj\Debug\DCEnumNC.exe
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\obj\Debug\DCEnumNC.pdb
-C:\Users\filippo\source\repos\DCEnumNC\DCEnumNC\obj\Debug\DCEnumNC.csprojAssemblyReference.cache
