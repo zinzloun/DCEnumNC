@@ -98,7 +98,7 @@ parsing to the hashcat format, doing this operation locally.
 <small><sup>1</sup> The KRBTGT account is a local default account that acts as a service account for 
 the Key Distribution Center (KDC) service. More info at: https://adsecurity.org/?p=483
 <br><sup>2</sup> The filter (sAMAccountType=805306368) for user objects is more efficient than 
-the usual filters.<br>
+the usual filters<br>
 <sup>3</sup> https://www.iana.org/assignments/kerberos-parameters/kerberos-parameters.xhtml#kerberos-parameters-1 
 </small>
 
