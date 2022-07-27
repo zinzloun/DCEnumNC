@@ -4,7 +4,7 @@ Based on https://github.com/GhostPack/SharpRoast, even if deprecated it works qu
 I slighty modified the code creating a class **DCEnumNC.KBRoast** with only one public method
 *RoastNow* that accept as arguments an array of strings, exactly the same interface of the original
 project. See the comment on the code to explore the parameters list.
-I have also coded a *helper* class **DCEnumNC.EnumDC** with (ath the moment) only 
+I have also coded a *helper* class **DCEnumNC.EnumDC** with (at the moment) only 
 one public static method to simply get the DC name server and the IP.<br>
 The console application, that actually wraps the calls to the class methods, accept 3 parameters:
 1. The attacker IP used to send the report
