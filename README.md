@@ -1,5 +1,5 @@
 ﻿### YAKRR
-#### Yes, Another KerbeRoast Recipe
+#### Yest Another KerbeRoast Recipe
 Based on https://github.com/GhostPack/SharpRoast, even if deprecated it works quite well.
 I slighty modified the code creating a class **DCEnumNC.KBRoast** with only one public method
 *RoastNow* that accept as arguments an array of strings, exactly the same interface of the original
